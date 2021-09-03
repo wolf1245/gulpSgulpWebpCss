@@ -1,0 +1,84 @@
+/*DEFAULT STYLE START*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    outline: none;
+}
+
+ul,ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+  margin: 0;
+}
+
+.width100 {
+  width: 100%;
+}
+
+.height100 {
+  height: 100vh;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.h-all-default {
+  font-size: 20px;
+}
+
+.wrap-for-img {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+}
+
+.btn {
+  font-size: 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #1a73e8;
+}
+
+:root {
+  --widthcolum: 12;
+  --width-advantages-list-item: 3;
+  --main-orange: #cc9933;
+  --main-grey: #999999;
+  --main-darkgrey: #333333;
+  --main-white: #fff;
+}
+/*DEFAULT STYLE END*/
+/***********************INDEX START***************************/
+/*HEADER START*/
+/*HEADER END*/
+
+/*MAIN START*/
+/*MAIN END*/
+
+/*FOOTER START*/
+/*FOOTER END*/
+/***********************INDEX END***************************/
+/***********************TEST START***************************/
+/*HEADER START*/
+/*HEADER END*/
+
+/*MAIN START*/
+/*MAIN END*/
+
+/*FOOTER START*/
+/*FOOTER END*/
+/***********************TEST START***************************/
