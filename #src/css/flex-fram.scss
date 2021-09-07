@@ -20,6 +20,12 @@
   flex-wrap: wrap;
 }
 
+.flex-der-row-nowrap {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
 .flex-der-row-rev {
   display: flex;
   flex-direction: row-reverse;
