@@ -58,7 +58,7 @@ const fileInclude = require('gulp-file-include');
 // пакет удаление ненужных файлов из папки dist
 const autoDel = require('del');
 // пакет sass
-const scss = require('gulp-sass');
+const scss = require('gulp-sass')(require('sass'));
 // пакет автопрефикс кроссбраузерности
 const autoPref = require('gulp-autoprefixer');
 // очистка отненужного файла цсс на выходе в релиз
